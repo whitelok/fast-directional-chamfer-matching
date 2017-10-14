@@ -28,4 +28,4 @@ FDCMChamferDetect
 
 ```
 
-<img src="https://github.com/whitelok/recent-advance-in-artificial-intelligenc-and-the-implications-for-computer-syste-design-zh/raw/master/frontpage.png" width="100%" />
+<img src="https://github.com/whitelok/fast-directional-chamfer-matching/blob/master/WebResource/demo_1.png" width="100%" />
