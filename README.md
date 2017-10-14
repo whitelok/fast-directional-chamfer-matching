@@ -17,3 +17,15 @@ An optimized chamfer matching algorithm from FastDirectionalChamferMatching. Fas
  - Fixed build error in make.m on Unix/Linux
 
  - Fixed headers name error
+
+ - **TO DO** make this libs can be invoke in human way.
+
+## Run Demo 
+```bash
+
+# if you are not in Windows or OSX, please run make first
+FDCMChamferDetect
+
+```
+
+<img src="https://github.com/whitelok/recent-advance-in-artificial-intelligenc-and-the-implications-for-computer-syste-design-zh/raw/master/frontpage.png" width="100%" />
