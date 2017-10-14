@@ -4,7 +4,7 @@
 #include <string>
 #include "Image/Image.h"
 #include "Image/ImageIO.h"
-#include "fitline/LFLineFitter.h"
+#include "Fitline/LFLineFitter.h"
 
 using namespace std;
 
