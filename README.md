@@ -24,7 +24,18 @@ An optimized chamfer matching algorithm from FastDirectionalChamferMatching. Fas
 ```bash
 
 # if you are not in Windows or OSX, please run make first
-FDCMChamferDetect
+main
+
+```
+
+## Using with your own image
+```bash
+
+// in main.m
+
+// wins is the box of the matching result in original image
+wins = FDCMChamferDetect(templateImgPath, matchingTargetImgPath, saveImgPath)
+
 
 ```
 
