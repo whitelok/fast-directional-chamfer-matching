@@ -69,7 +69,7 @@ function wins = FDCMChamferDetect(templateImgPath, matchingTargetImgPath, saveIm
 
     resultF = figure('visible', 'off');
     %hold on;
-    imshow(queryColor,[]);
+    %imshow(queryColor,[]);
     %title('Original image');
 
     % Set the parameter for line fitting function
